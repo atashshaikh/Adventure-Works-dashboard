@@ -23,8 +23,8 @@ The dashboard was built using the following tools and technologies:<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
-•	📁 File Format – .pbix for development and .png for dashboard previews.<br>
-• 📁 AdventureWorks Dataset – Sample business data
+•	📁 File Format – .pbix for development and .png for dashboard previews.
+
 
 ### 4.	Data Source
 More info on where the data comes from and how it’s structured

@@ -1,4 +1,4 @@
-# Adventure Works bike shop -dashboard
+  # Adventure Works bike shop -dashboard
 ## Recommended Structure and Order
 ### 1.	🚴‍♂️ Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
 An interactive Power BI dashboard built for AdventureWorks, a global cycling equipment manufacturer. The project transforms raw CSV data into meaningful business insights through data modeling, DAX measures, and visually rich dashboards.
@@ -27,11 +27,33 @@ The dashboard was built using the following tools and technologies:<br>
 
 
 ### 4.	Data Source
-More info on where the data comes from and how it’s structured
-Example:
-Source: Ski-resort-stats.com & NASA Earth Observations. 
 
-Data on ~500 ski resorts around the world, including details on their location, prices, slopes, lifts, and seasons, as well as a complementary table with the snow cover around the world for each month of 2022.
+The dashboard was built using the AdventureWorks dataset — a sample business database representing a global manufacturing company that sells bicycles and related accessories.
+The raw data was provided as multiple CSV files containing information on customers, products, Sales, Returns, Territory and calendar dates.
+
+1. Calendar Lookup-
+Provides the date dimension used for building time-based analyses such as monthly, quarterly, and yearly sales trends.
+
+2. Customer Lookup-
+Contains detailed customer information used for segmentation, demographics analysis, and identifying high-value customers.
+
+3. Product Categories Lookup
+Defines the top-level product categories (e.g., Bikes, Accessories, Clothing).
+
+4. Product Subcategory Lookup
+Acts as a bridge between product and category tables, allowing category-wise performance breakdown.
+
+5. Product Lookup
+Contains product-level information used to analyze profitability, sales trends, and product performance by category or model.
+
+6. Sales Data
+Main fact table used to calculate sales, revenue, and profit metrics across different dimensions.
+
+7. Returns Data
+Tracks returned items to calculate return rates and adjust profitability metrics.
+
+8. Territory Lookup
+Used for regional and geographical analysis of sales performance.
 
 
 ### 5.	Features / Highlights

@@ -114,6 +114,6 @@ This helps users gauge resort infrastructure and capacity.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/executive_dashboard.png)
- ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/Customer_detail_dashboard.png)
+Executive Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/executive_dashboard.png)
+Customer Detail Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/Customer_detail_dashboard.png)
 

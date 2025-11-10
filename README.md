@@ -106,10 +106,11 @@ Total lifts
 This helps users gauge resort infrastructure and capacity.
 
 •	Business Impact & Insights
-Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+
+Enabled faster decision-making with real-time performance tracking.
+Improved marketing focus by identifying high-value customers.
+Boosted profitability by revealing product and region-level insights.
+Reduced manual reporting with automated, interactive visuals.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)

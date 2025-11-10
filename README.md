@@ -1,6 +1,6 @@
-# Ski-dashboard
+# Adventure Works bike shop -dashboard
 ## Recommended Structure and Order
-### 1.	Project Title / Headline
+### 1.	🚴‍♂️ \Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
 A concise, descriptive name for the dashboard.
 Example: 
 ❄️ Snowy Analytics: Global Ski Resort Insights Dashboard

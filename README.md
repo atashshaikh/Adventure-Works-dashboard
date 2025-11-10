@@ -1,10 +1,7 @@
 # Adventure Works bike shop -dashboard
 ## Recommended Structure and Order
-### 1.	🚴‍♂️ \Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
-A concise, descriptive name for the dashboard.
-Example: 
-❄️ Snowy Analytics: Global Ski Resort Insights Dashboard
-A dynamic, interactive data visualization tool built to explore ski resort data worldwide—focusing on regional comparisons, resort attributes, terrain complexity, and skier suitability.
+### 1.	🚴‍♂️ Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
+An interactive Power BI dashboard built for AdventureWorks, a global cycling equipment manufacturer. The project transforms raw CSV data into meaningful business insights through data modeling, DAX measures, and visually rich dashboards.
 
 ### 2.	Short Description / Purpose
 1–2 sentences explaining what the dashboard does and why it exists.

@@ -1,5 +1,5 @@
   # Adventure Works bike shop -dashboard
-## Recommended Structure and Order
+  
 ### 1.	🚴‍♂️ Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
 An interactive Power BI dashboard built for AdventureWorks, a global cycling equipment manufacturer. The project transforms raw CSV data into meaningful business insights through data modeling, DAX measures, and visually rich dashboards.
 

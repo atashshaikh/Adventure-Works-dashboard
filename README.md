@@ -57,54 +57,61 @@ Used for regional and geographical analysis of sales performance.
 
 
 ### 5.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
+• Business Problem
 
-Example:
-•	Business Problem
-The global ski tourism industry generates billions in revenue, yet travelers, tour operators, and analysts often lack an intuitive way to compare resorts across countries. 
+Adventure Works needed a unified reporting system to track business performance across customers, products, and overall revenue. The challenge was to understand which customers contribute the most revenue, which products are most profitable, and how sales trends evolve over time — insights that were previously buried in complex raw data.
 
-Key questions such as:
-Which regions offer the most family-friendly or expert-level skiing?
-Where is summer skiing available?
-What countries have the most well-equipped resorts?
-… are difficult to answer quickly with raw data.
+• Goal of the Dashboard
 
-•	Goal of the Dashboard
-To deliver an interactive visual tool that:
-Enables users to explore ski resorts globally.
-Supports decisions such as vacation planning, regional marketing, or infrastructure investment.
-Uncovers trends in terrain, accessibility, and tourism capacity by region and resort.
+To design an interactive Power BI solution that:
 
-•	Walkthrough of Key Visuals
--	Key KPIs (Top Left)
-Total number of resorts: 499
-Resorts with summer skiing: 29
-Resorts with night skiing: 204
-Child-friendly resorts: 495
-Countries covered: 38
-Continents represented: 5
--	Continent Filter Panel
-An interactive slicer lets users filter all visuals by selected continents, such as Europe or Asia.
--	Top Countries with Most Resorts (Bar Chart)
-Bar chart ranks countries like Austria, France, and the U.S. by number of ski resorts.
--	Slopes by Resort (Line Chart)
-Displays the distribution of slope types (beginner, intermediate, expert, and total). Helps identify which resorts favor beginners vs. experts.
--	 Resorts by Skill Level (Dual Line Charts)
-Two line visuals side by side: one for resorts that cater to beginners, another for experts—allowing skill-level segmentation.
--	Elevation Stats (Grouped Bar Chart)
-Compare the highest and lowest elevation points of resorts to understand terrain steepness and potential snow quality.
--	Lift Types by Resort (Stacked Bar Chart)
-Stacked bar chart showing:
-Gondola lifts
-Chair lifts
-Surface lifts
-Total lifts
-This helps users gauge resort infrastructure and capacity.
+Monitors company-wide performance metrics (Revenue, Profit, Orders, Return Rate).
 
+Identifies top-performing customers and products driving profitability.
+
+Enables executives and managers to make data-driven pricing, marketing, and sales decisions.
+
+Provides drill-down views from a company-wide summary to individual customer and product levels.
+
+• Walkthrough of Key Visuals
+
+1. Executive Dashboard (Overall Summary)
+
+Top KPIs: Revenue ($24.9M), Profit ($10.5M), Orders (25.2K), Return Rate (2.2%).
+
+Revenue Trending Line Chart: Tracks revenue growth from 2020–2022 with visible upward trajectory.
+
+Orders by Category (Bar Chart): Highlights contribution by Accessories, Bikes, and Clothing.
+
+Top 10 Products (Table): Lists best-selling items with their total revenue and return rates.
+
+Monthly Metrics: Compares current vs. previous month’s Revenue, Orders, and Returns.
+
+Most Ordered/Returned Products: Tires & Tubes lead in sales, Shorts show the highest return rate.
+
+2. Customer Detail Dashboard
+
+KPIs: 17.4K Unique Customers | $1,431 Revenue per Customer.
+
+Customer Trend (Line Chart): Displays customer growth and average revenue per customer over time.
+
+Orders by Income & Occupation (Donut Charts): Show customer demographics and purchasing patterns.
+
+Top 100 Customers (Table): Lists customers by revenue, with Mr. Maurice Shan as the top contributor ($12.4K).
+
+Interactive Year Filter (2020–2022): Allows users to explore performance across different years.
+
+3. Product Detail Dashboard
+
+Selected Product View: Example: AWC Logo Cap.
+
+KPIs: Monthly Orders (232), Monthly Revenue ($4,037), Monthly Profit ($1,373).
+
+Price Adjustment Slider: Simulates impact of pricing changes on revenue and profit.
+
+Profit Trending Line Chart: Compares actual vs. adjusted profit trends over time.
+
+Metric Selector: Switch between visualizing Orders, Revenue, Profit, or Return % dynamically.
 •	Business Impact & Insights
 
 • Enabled faster decision-making with real-time performance tracking.

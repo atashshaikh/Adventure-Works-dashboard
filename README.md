@@ -64,10 +64,10 @@ Adventure Works needed a unified reporting system to track business performance 
 • Goal of the Dashboard
 
 To design an interactive Power BI solution that:
-Monitors company-wide performance metrics (Revenue, Profit, Orders, Return Rate).
-Identifies top-performing customers and products driving profitability.
-Enables executives and managers to make data-driven pricing, marketing, and sales decisions.
-Provides drill-down views from a company-wide summary to individual customer and product levels.
+Monitors company-wide performance metrics (Revenue, Profit, Orders, Return Rate).<br>
+Identifies top-performing customers and products driving profitability.<br>
+Enables executives and managers to make data-driven pricing, marketing, and sales decisions.<br>
+Provides drill-down views from a company-wide summary to individual customer and product levels.<br>
 
 • Walkthrough of Key Visuals
 

@@ -77,41 +77,41 @@ Provides drill-down views from a company-wide summary to individual customer and
 
 1. Executive Dashboard (Overall Summary)
 
-Top KPIs: Revenue ($24.9M), Profit ($10.5M), Orders (25.2K), Return Rate (2.2%).
+• Top KPIs: Revenue ($24.9M), Profit ($10.5M), Orders (25.2K), Return Rate (2.2%).
 
-Revenue Trending Line Chart: Tracks revenue growth from 2020–2022 with visible upward trajectory.
+• Revenue Trending Line Chart: Tracks revenue growth from 2020–2022 with visible upward trajectory.
 
-Orders by Category (Bar Chart): Highlights contribution by Accessories, Bikes, and Clothing.
+• Orders by Category (Bar Chart): Highlights contribution by Accessories, Bikes, and Clothing.
 
-Top 10 Products (Table): Lists best-selling items with their total revenue and return rates.
+• Top 10 Products (Table): Lists best-selling items with their total revenue and return rates.
 
-Monthly Metrics: Compares current vs. previous month’s Revenue, Orders, and Returns.
+• Monthly Metrics: Compares current vs. previous month’s Revenue, Orders, and Returns.
 
-Most Ordered/Returned Products: Tires & Tubes lead in sales, Shorts show the highest return rate.
+• Most Ordered/Returned Products: Tires & Tubes lead in sales, Shorts show the highest return rate.
 
 2. Customer Detail Dashboard
 
-KPIs: 17.4K Unique Customers | $1,431 Revenue per Customer.
+• KPIs: 17.4K Unique Customers | $1,431 Revenue per Customer.
 
-Customer Trend (Line Chart): Displays customer growth and average revenue per customer over time.
+• Customer Trend (Line Chart): Displays customer growth and average revenue per customer over time.
 
-Orders by Income & Occupation (Donut Charts): Show customer demographics and purchasing patterns.
+• Orders by Income & Occupation (Donut Charts): Show customer demographics and purchasing patterns.
 
-Top 100 Customers (Table): Lists customers by revenue, with Mr. Maurice Shan as the top contributor ($12.4K).
+• Top 100 Customers (Table): Lists customers by revenue, with Mr. Maurice Shan as the top contributor ($12.4K).
 
-Interactive Year Filter (2020–2022): Allows users to explore performance across different years.
+• Interactive Year Filter (2020–2022): Allows users to explore performance across different years.
 
 3. Product Detail Dashboard
 
-Selected Product View: Example: AWC Logo Cap.
+• Selected Product View: Example: AWC Logo Cap.
 
-KPIs: Monthly Orders (232), Monthly Revenue ($4,037), Monthly Profit ($1,373).
+• KPIs: Monthly Orders (232), Monthly Revenue ($4,037), Monthly Profit ($1,373).
 
-Price Adjustment Slider: Simulates impact of pricing changes on revenue and profit.
+• Price Adjustment Slider: Simulates impact of pricing changes on revenue and profit.
 
-Profit Trending Line Chart: Compares actual vs. adjusted profit trends over time.
+• Profit Trending Line Chart: Compares actual vs. adjusted profit trends over time.
 
-Metric Selector: Switch between visualizing Orders, Revenue, Profit, or Return % dynamically.
+• Metric Selector: Switch between visualizing Orders, Revenue, Profit, or Return % dynamically.<br>
 •	Business Impact & Insights
 
 • Enabled faster decision-making with real-time performance tracking.

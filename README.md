@@ -116,4 +116,5 @@ This helps users gauge resort infrastructure and capacity.
 
 Executive Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/executive_dashboard.png)
 Customer Detail Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/Customer_detail_dashboard.png)
+Product Detail Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/product_detail_dashboard.png)
 

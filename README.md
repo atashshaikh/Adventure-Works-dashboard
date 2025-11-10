@@ -1,12 +1,12 @@
-  # Adventure Works bike shop -dashboard
+  # Adventure Works
   
-### 1.	🚴‍♂️ Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
+### 🚴‍♂️ Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
 An interactive Power BI dashboard built for AdventureWorks, a global cycling equipment manufacturer. The project transforms raw CSV data into meaningful business insights through data modeling, DAX measures, and visually rich dashboards.
 
-### 2. Purpose
-As a newly hired Business Intelligence Analyst at AdventureWorks, the goal was to help management track key performance metrics — including sales, revenue, profit, and returns — while enabling detailed analysis of regional performance, product trends, and high-value customers.
+###  Purpose
+As a newly hired Business Intelligence Analyst at AdventureWorks, the goal was to help management track key performance metrics  including sales, revenue, profit, and returns while enabling detailed analysis of regional performance, product trends, and high-value customers.
 
-The dataset included raw CSV files on transactions, returns, products, customers, and sales territories. Using Power BI Desktop, the following tasks were completed:
+The dataset included raw CSV files on transactions, returns, products, customers, sales and  territories. Using Power BI Desktop, the following tasks were completed:
 
 🔗 Connected and transformed raw data into a clean data model
 
@@ -16,9 +16,10 @@ The dataset included raw CSV files on transactions, returns, products, customers
 
 📈 Designed interactive dashboards — Executive, Customer, and Product pages
 
-### 3.	🧰 Tools & Technologies Used
+### 🧰 Tools & Technologies Used
 
 The dashboard was built using the following tools and technologies:<br>
+
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
@@ -26,7 +27,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 
-### 4.	Data Source
+###	Data Source
 
 The dashboard was built using the AdventureWorks dataset — a sample business database representing a global manufacturing company that sells bicycles and related accessories.
 The raw data was provided as multiple CSV files containing information on customers, products, Sales, Returns, Territory and calendar dates.
@@ -50,7 +51,7 @@ Tracks returned items to calculate return rates and adjust profitability metrics
 Used for regional and geographical analysis of sales performance.
 
 
-### 5.	Features / Highlights
+### 	Features / Highlights
 ##### • Business Problem
 
 Adventure Works needed a unified reporting system to track business performance across customers, products, and overall revenue. The challenge was to understand which customers contribute the most revenue, which products are most profitable, and how sales trends evolve over time — insights that were previously buried in complex raw data.
@@ -94,7 +95,7 @@ Provides drill-down views from a company-wide summary to individual customer and
 
 Delivered a 360° view of business performance by integrating executive, customer, and product insights into one Power BI solution. Enabled management to identify high-value customers, top-performing products, and simulate pricing impacts—driving smarter marketing, retention, and profitability decisions.
 
-### 6.	Screenshots 
+### Screenshots 
 
 Executive Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/executive_dashboard.png)
 Customer Detail Dashboard: ![Dashboard Preview](https://github.com/atashshaikh/Adventure-Works-dashboard/blob/main/Customer_detail_dashboard.png)

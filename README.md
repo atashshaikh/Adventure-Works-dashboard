@@ -107,10 +107,10 @@ This helps users gauge resort infrastructure and capacity.
 
 •	Business Impact & Insights
 
-Enabled faster decision-making with real-time performance tracking.
-Improved marketing focus by identifying high-value customers.
-Boosted profitability by revealing product and region-level insights.
-Reduced manual reporting with automated, interactive visuals.
+• Enabled faster decision-making with real-time performance tracking.
+• Improved marketing focus by identifying high-value customers.
+• Boosted profitability by revealing product and region-level insights.
+• Reduced manual reporting with automated, interactive visuals.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)

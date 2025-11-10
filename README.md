@@ -3,11 +3,18 @@
 ### 1.	🚴‍♂️ Adventure Works Power Bi Dashboard - Sales, Customer & Product Insights
 An interactive Power BI dashboard built for AdventureWorks, a global cycling equipment manufacturer. The project transforms raw CSV data into meaningful business insights through data modeling, DAX measures, and visually rich dashboards.
 
-### 2.	Short Description / Purpose
-1–2 sentences explaining what the dashboard does and why it exists.
+### 2. Purpose
+As a newly hired Business Intelligence Analyst at AdventureWorks, the goal was to help management track key performance metrics — including sales, revenue, profit, and returns — while enabling detailed analysis of regional performance, product trends, and high-value customers.
 
-Example: 
-The Snowy Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 499 ski resorts across 38 countries and 5 continents. The dashboard focuses on highlighting major ski resort features like summer skiing availability, night skiing, lift types, and slope difficulty. This tool is intended for use by tourism analysts, winter sports enthusiasts, travel companies, and data-driven strategists who seek to understand trends and characteristics of ski resorts globally.
+The dataset included raw CSV files on transactions, returns, products, customers, and sales territories. Using Power BI Desktop, the following tasks were completed:
+
+🔗 Connected and transformed raw data into a clean data model
+
+🧩 Built a relational data model with proper relationships
+
+⚙️ Created calculated columns and measures using DAX
+
+📈 Designed interactive dashboards — Executive, Customer, and Product pages
 
 ### 3.	Tech Stack
 List the key technologies used to build the dashboard.
